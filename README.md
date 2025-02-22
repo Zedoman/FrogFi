@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ### **5. Run the Streamlit App**
 ```bash
-streamlit run efrog_hub.py
+streamlit run app.py
 ```
 
 ---
